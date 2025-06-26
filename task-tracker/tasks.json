@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "description": "Buy organic groceries",
+    "status": "todo",
+    "createdAt": "2025-06-20T16:47:20.673727",
+    "updatedAt": "2025-06-20T16:47:36.534207"
+  },
+  {
+    "id": 2,
+    "description": "Test task",
+    "status": "todo",
+    "createdAt": "2025-06-20T16:47:51.783378",
+    "updatedAt": "2025-06-20T16:47:51.783378"
+  },
+  {
+    "id": 3,
+    "description": "Test task",
+    "status": "todo",
+    "createdAt": "2025-06-20T16:48:35.445178",
+    "updatedAt": "2025-06-20T16:48:35.445178"
+  }
+]

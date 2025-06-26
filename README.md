@@ -1,0 +1,7 @@
+- Add new tasks
+- Update existing tasks
+- Delete tasks
+- Mark tasks as todo/in-progress/done
+- List tasks with status filtering
+- Automatic timestamps and unique IDs
+- Persistent JSON storage

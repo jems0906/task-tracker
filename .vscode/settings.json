@@ -1,0 +1,9 @@
+// Tell Pylance to completely ignore all of the bundled debugpy code:
+{
+  "python.analysis.exclude": [
+
+    "**/.vscode/extensions/ms-python.debugpy-*/**"
+
+  ],
+}
+ 
